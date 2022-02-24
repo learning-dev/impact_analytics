@@ -19,4 +19,6 @@ for 10 days: 372/773
 
 ## steps to run
 You can change the inputs in the file. i.e N
+Run the file using the below command.
+
 `python graduation.py`
