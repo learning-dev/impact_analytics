@@ -16,3 +16,7 @@ Test cases:
 for 5 days: 14/29
 
 for 10 days: 372/773
+
+## steps to run
+You can change the inputs in the file. i.e N
+`python graduation.py`
